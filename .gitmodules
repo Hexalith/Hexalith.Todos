@@ -1,0 +1,18 @@
+[submodule "Hexalith.AI.Tools"]
+	path = Hexalith.AI.Tools
+	url = https://github.com/Hexalith/Hexalith.AI.Tools.git
+[submodule "Hexalith.Builds"]
+	path = Hexalith.Builds
+	url = https://github.com/Hexalith/Hexalith.Builds.git
+[submodule "Hexalith.Commons"]
+	path = Hexalith.Commons
+	url = https://github.com/Hexalith/Hexalith.Commons.git
+[submodule "Hexalith.EventStore"]
+	path = Hexalith.EventStore
+	url = https://github.com/Hexalith/Hexalith.EventStore.git
+[submodule "Hexalith.Tenants"]
+	path = Hexalith.Tenants
+	url = https://github.com/Hexalith/Hexalith.Tenants.git
+[submodule "Hexalith.Parties"]
+	path = Hexalith.Parties
+	url = https://github.com/Hexalith/Hexalith.Parties.git
